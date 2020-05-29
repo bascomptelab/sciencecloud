@@ -1,8 +1,8 @@
-# sciencecloud
-Copy of the original repository in the old bascomptelab GitHub account
-
-Original description form 2017 
 # ScienceCloud
+
+[Copy of the original repository in the old bascomptelab GitHub account]
+
+**Original description from 2017**
 
 [ScienceCloud](https://www.s3it.uzh.ch/en/scienceit/infrastructure/sciencecloud.html) provides a variety of computing, storage and networking services to meet the needs of the computational research of the lab. In this repository you will find all the information, tutorials and source code examples to get started with ScienceCloud computing services and tools.
 
